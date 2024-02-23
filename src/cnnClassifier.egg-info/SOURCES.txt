@@ -12,3 +12,4 @@ src/cnnclassifier/constants/__init__.py
 src/cnnclassifier/entity/__init__.py
 src/cnnclassifier/pipeline/__init__.py
 src/cnnclassifier/utils/__init__.py
+src/cnnclassifier/utils/common.py
