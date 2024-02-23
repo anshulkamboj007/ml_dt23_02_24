@@ -7,7 +7,7 @@ __version__="0.0.0"
 
 REPO_NAME="ml_real"
 AUTHOR_USER_NAME="anshulkamboj007"
-SRC_REPO="cnnClassifier"
+SRC_REPO="cnnclassifier"
 AUTHOR_EMAIL="anshulsinghkamboj@gmail.com"
 
 setuptools.setup(
